@@ -1,0 +1,8 @@
+# C build output
+*.o
+*.out
+server
+client
+getip
+a.out
+build/
